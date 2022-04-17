@@ -1,0 +1,22 @@
+.c1{
+    width: 200px;
+    height: 200px;
+    left: 100px;
+    top: 150px;
+    background-color: red;
+    border-radius: 100px 100px 100px 100px;
+    z-index: 100;
+    position: absolute;
+}
+
+.c2{
+    width: 200px;
+    height: 200px;
+    left: 100px;
+    top: 150px;
+    background-color: blue;
+    position: absolute;
+}
+
+
+
